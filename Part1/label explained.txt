@@ -1,0 +1,5 @@
+0: cloth mask
+1: N95
+2: N95 with valve
+3: Surgical mask
+4: Without mask
