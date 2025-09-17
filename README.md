@@ -85,7 +85,3 @@ The project was developed in two phases:
 - **CV/ML:** Custom CNN, BatchNorm, Leaky ReLU, 5-fold & 10-fold Cross Validation, EarlyStopping, Adam optimizer, Cross-entropy loss  
 - **Data Ops:** Augmentation (rotations, flips), CSV labeling scripts, balanced splits  
 - **Metrics:** Accuracy, Precision, Recall, F1, Confusion Matrix  
-
----
-
-## 🗂️ Repository Structure
