@@ -1,0 +1,250 @@
+image name,label
+#cloth mask#_0.jpg,0
+#cloth mask#_1.jpg,0
+#cloth mask#_10.jpg,0
+#cloth mask#_11.jpg,0
+#cloth mask#_12.jpg,0
+#cloth mask#_13.jpg,0
+#cloth mask#_14.jpg,0
+#cloth mask#_15.jpg,0
+#cloth mask#_2.jpg,0
+#cloth mask#_29.jpg,0
+#cloth mask#_30.jpg,0
+#cloth mask#_31.jpg,0
+#cloth mask#_32.jpg,0
+#cloth mask#_33.jpg,0
+#cloth mask#_36.jpg,0
+#cloth mask#_39.jpg,0
+#cloth mask#_4.jpg,0
+#cloth mask#_40.jpg,0
+#cloth mask#_41.jpg,0
+#cloth mask#_42.jpg,0
+#cloth mask#_44.jpg,0
+#cloth mask#_45.jpg,0
+#cloth mask#_47.jpg,0
+#cloth mask#_48.jpg,0
+#cloth mask#_49.jpg,0
+#cloth mask#_50.jpg,0
+#cloth mask#_53.jpg,0
+#cloth mask#_54.jpg,0
+#cloth mask#_56.jpg,0
+#cloth mask#_57.jpg,0
+#cloth mask#_61.jpg,0
+#cloth mask#_62.jpg,0
+#cloth mask#_63.jpg,0
+#cloth mask#_64.jpg,0
+#cloth mask#_65.jpg,0
+#cloth mask#_68.jpg,0
+#cloth mask#_69.jpg,0
+#cloth mask#_7.jpg,0
+#cloth mask#_71.jpg,0
+#cloth mask#_72.jpg,0
+#cloth mask#_74.jpg,0
+#cloth mask#_78.jpg,0
+#cloth mask#_79.jpg,0
+#cloth mask#_8.jpg,0
+#cloth mask#_80.jpg,0
+#cloth mask#_81.jpg,0
+#cloth mask#_82.jpg,0
+#cloth mask#_84.jpg,0
+#cloth mask#_88.jpg,0
+#cloth mask#_89.jpg,0
+#FFP2#_114.jpg,1
+#FFP2#_125.jpeg,1
+#FFP2#_129.jpg,1
+#FFP2#_14.jpg,1
+#FFP2#_142.jpg,1
+#FFP2#_144.jpg,1
+#FFP2#_147.jpg,1
+#FFP2#_148.jpg,1
+#FFP2#_152.jpg,1
+#FFP2#_161.jpg,1
+#FFP2#_162.jpg,1
+#FFP2#_187.jpg,1
+#FFP2#_192.jpg,1
+#FFP2#_193.jpg,1
+#FFP2#_198.jpg,1
+#FFP2#_2.jpg,1
+#FFP2#_224.jpg,1
+#FFP2#_230.jpg,1
+#FFP2#_247.jpg,1
+#FFP2#_250.jpg,1
+#FFP2#_251.jpg,1
+#FFP2#_255.jpg,1
+#FFP2#_290.jpg,1
+#FFP2#_297.jpg,1
+#FFP2#_299.jpg,1
+#FFP2#_317.jpg,1
+#FFP2#_318.jpg,1
+#FFP2#_323.jpg,1
+#FFP2#_324.jpg,1
+#FFP2#_330.jpg,1
+#FFP2#_350.jpg,1
+#FFP2#_352.jpg,1
+#FFP2#_403.jpg,1
+#FFP2#_405.jpeg,1
+#FFP2#_414.jpg,1
+#FFP2#_420.jpg,1
+#FFP2#_421.jpg,1
+#FFP2#_424.jpg,1
+#FFP2#_431.jpeg,1
+#FFP2#_466.jpg,1
+#FFP2#_513.jpg,1
+#FFP2#_52.jpg,1
+#FFP2#_59.jpg,1
+#FFP2#_66.jpg,1
+#FFP2#_7.jpg,1
+#FFP2#_79.jpg,1
+#FFP2#_85.jpg,1
+#FFP2#_9.jpg,1
+#FFP2#_91.jpg,1
+NV117.jpg,2
+NV118.jpg,2
+NV119.jpg,2
+NV127.jpg,2
+NV128.jpg,2
+NV129.jpg,2
+NV130.jpg,2
+NV131.jpg,2
+NV137.jpg,2
+NV143.jpg,2
+NV144.jpg,2
+NV145.jpg,2
+NV148.jpeg,2
+NV149.jpg,2
+NV150.jpg,2
+NV153.jpg,2
+NV154.jpg,2
+train_00001307.jpg,2
+train_00001735.jpg,2
+train_00002501.jpg,2
+train_00002629.jpg,2
+train_00002715.jpg,2
+train_00003026.jpg,2
+train_00003704.jpg,2
+train_00003909.jpg,2
+train_00004303.jpg,2
+train_00005486.jpg,2
+train_00006257.jpg,2
+train_00013130.jpg,2
+train_00013171.jpg,2
+train_00013284.jpg,2
+train_00013530.jpg,2
+train_00014767.jpg,2
+train_00015004.jpg,2
+train_00015020.jpg,2
+train_00015261.jpg,2
+train_00016520.jpg,2
+train_00016757.jpg,2
+train_00017515.jpg,2
+train_00017732.jpg,2
+train_00017751.jpg,2
+train_00018486.jpg,2
+train_00019325.jpg,2
+train_00020629.jpg,2
+train_00021888.jpg,2
+train_00021940.jpg,2
+train_00022350.jpg,2
+train_00023945.jpg,2
+train_00023968.jpg,2
+train_00025715.jpg,2
+#surgical_mask#_217.jpg,3
+#surgical_mask#_225.jpg,3
+#surgical_mask#_230.jpg,3
+#surgical_mask#_236.jpg,3
+#surgical_mask#_238.jpg,3
+#surgical_mask#_247.jpg,3
+#surgical_mask#_248.jpg,3
+#surgical_mask#_257.jpg,3
+#surgical_mask#_268.jpg,3
+#surgical_mask#_269.jpg,3
+#surgical_mask#_280.jpg,3
+#surgical_mask#_281.jpg,3
+#surgical_mask#_301.jpg,3
+#surgical_mask#_343.jpg,3
+#surgical_mask#_459.jpg,3
+#surgical_mask2#_1.jpg,3
+#surgical_mask2#_101.jpg,3
+#surgical_mask2#_107.jpg,3
+#surgical_mask2#_108.jpg,3
+#surgical_mask2#_109.jpg,3
+#surgical_mask2#_11.jpg,3
+#surgical_mask2#_121.jpg,3
+#surgical_mask2#_122.jpg,3
+#surgical_mask2#_124.jpg,3
+#surgical_mask2#_125.jpg,3
+#surgical_mask2#_130.jpg,3
+#surgical_mask2#_140.jpg,3
+#surgical_mask2#_143.jpg,3
+#surgical_mask2#_15.jpg,3
+#surgical_mask2#_152.jpg,3
+#surgical_mask2#_153.jpg,3
+#surgical_mask2#_16.jpg,3
+#surgical_mask2#_4.jpeg,3
+#surgical_mask2#_40.jpg,3
+#surgical_mask2#_5.jpg,3
+#surgical_mask2#_60.jpg,3
+#surgical_mask2#_61.jpg,3
+#surgical_mask2#_62.jpg,3
+#surgical_mask2#_64.jpg,3
+#surgical_mask2#_66.jpg,3
+#surgical_mask2#_67.jpg,3
+#surgical_mask2#_7.jpg,3
+#surgical_mask2#_72.jpg,3
+#surgical_mask2#_74.jpg,3
+#surgical_mask2#_78.jpg,3
+#surgical_mask2#_8.jpg,3
+#surgical_mask2#_82.jpg,3
+#surgical_mask2#_9.jpg,3
+#surgical_mask2#_90.jpg,3
+#surgical_mask2#_92.jpg,3
+20_1_4_20161223230110540.jpg,4
+20_1_4_20161223230115267.jpg,4
+20_1_4_20170103223033527.jpg,4
+20_1_4_20170103223401848.jpg,4
+20_1_4_20170104005353062.jpg,4
+21_0_4_20161223214838473.jpg,4
+21_1_3_20170104231324474.jpg,4
+21_1_3_20170104231602346.jpg,4
+21_1_4_20170103223240255.jpg,4
+21_1_4_20170103223244111.jpg,4
+21_1_4_20170103223249191.jpg,4
+21_1_4_20170103224431735.jpg,4
+21_1_4_20170103224936983.jpg,4
+21_1_4_20170103233920299.jpg,4
+21_1_4_20170103234037067.jpg,4
+21_1_4_20170104005731615.jpg,4
+22_1_2_20161219153940196.jpg,4
+22_1_3_20170104214416853.jpg,4
+22_1_3_20170104231709097.jpg,4
+22_1_3_20170104231720114.jpg,4
+22_1_3_20170104232533912.jpg,4
+22_1_4_20170103180220911.jpg,4
+22_1_4_20170103212717246.jpg,4
+22_1_4_20170103223216583.jpg,4
+22_1_4_20170103224814016.jpg,4
+22_1_4_20170103225112465.jpg,4
+22_1_4_20170103233803763.jpg,4
+23_1_0_20170103223610503.jpg,4
+23_1_1_20170102233446754.jpg,4
+23_1_3_20170104220147782.jpg,4
+23_1_4_20170103223600551.jpg,4
+23_1_4_20170103223618431.jpg,4
+24_1_0_20170103225156008.jpg,4
+24_1_3_20170104215645565.jpg,4
+24_1_3_20170104222401271.jpg,4
+24_1_3_20170104231426665.jpg,4
+24_1_3_20170104234822506.jpg,4
+24_1_4_20170103224843361.jpg,4
+24_1_4_20170103224910931.jpg,4
+24_1_4_20170104005617062.jpg,4
+25_1_0_20170104165326705.jpg,4
+25_1_1_20170103230312265.jpg,4
+25_1_3_20170104231305129.jpg,4
+25_1_3_20170104231501635.jpg,4
+25_1_3_20170104232046530.jpg,4
+25_1_4_20170103225922392.jpg,4
+26_1_0_20170105163517523.jpg,4
+26_1_2_20170103181524137.jpg,4
+26_1_2_20170104022244853.jpg,4
+26_1_3_20170104215629245.jpg,4
